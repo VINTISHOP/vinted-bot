@@ -3,9 +3,13 @@
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
 </p>
 
-<h1 align="center">BOT VINTED FOR DISCORD</h1>
+<h1 align="center">VINTED BOT</h1>
 
-Do you want to improve your buying and selling experience on Vinted ? Our bot is the perfect tool for you. It is an automated program designed so that ads from the online sales platform Vinted are sent directly to your Discord server.
+<p>Do you want to enhance your buying and selling experience on Vinted? Our bot is the perfect tool for you. It’s an automated program designed to send Vinted listings directly to our web panel, with options to also send them to Discord, Telegram, and Signal.</p>
+
+<p>Our bot comes with the latest features: <strong>auto-buy, auto-cop, access to Vinted on all available markets, and a simplified interface for easy and quick use</strong>.</p>
+
+<p>As an expert in Vinted bot development for two years, I have already delivered over 70 bots to clients around the world. Our bot is accessible to everyone, making it the ideal tool for getting started in e-commerce. Whether you’re simply looking for discounted clothing or planning to launch a subscription Discord server, our bot is designed to meet all your needs.</p>
 
 :warning: The code is not open source, to be able to obtain the bot open a ticket on my discord server : https://discord.gg/XtHueHB9hm
 
