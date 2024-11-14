@@ -16,7 +16,7 @@
 
 <h2 align="center">⭐ Here are some photos of our awesome web panel and Discord integration !</h2>
 <p align="center">
-  <img align="center" src="<a href="https://i.ibb.co/qYbbwny/Capture-d-e-cran-2024-11-14-a-23-19-22.png" alt="Capture-d-e-cran-2024-11-14-a-23-19-22" border="0"></a>"></img>
+  <img align="center" src="https://i.ibb.co/qYbbwny/Capture-d-e-cran-2024-11-14-a-23-19-22.png"></img>
 </p>
 <p align="center">
   <img align="center" src="https://i.ibb.co/QmCfrG5/Capture-d-e-cran-2024-11-14-a-21-48-17.png"></img>
