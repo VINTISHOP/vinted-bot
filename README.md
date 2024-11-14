@@ -16,6 +16,9 @@
 
 <h2 align="center">⭐ Here are some photos of our awesome web panel and Discord integration !</h2>
 <p align="center">
+  <img align="center" src="<a href="https://i.ibb.co/qYbbwny/Capture-d-e-cran-2024-11-14-a-23-19-22.png" alt="Capture-d-e-cran-2024-11-14-a-23-19-22" border="0"></a>"></img>
+</p>
+<p align="center">
   <img align="center" src="https://i.ibb.co/QmCfrG5/Capture-d-e-cran-2024-11-14-a-21-48-17.png"></img>
 </p>
 <p align="center">
@@ -32,23 +35,6 @@
 
 <br>
 
-
-
-## :dart: FAQ
-
-**What is the difference between me and other providers ?**
-We not only offer access to a Discord like most servers, but we offer you a wide choice of packages.
-You can choose an offer with a subscription at 7.99 euro/month that will give you access to a bot without delay on our Discord and a community of experts in the purchase resale.
-But you can also choose to buy an independent vinted bot for your discord server, this allows you: to choose the items that interest you, invite your friends or even market it. This is your Bot Vinted!
-
-**Is the bot equipped with 0 delay ?**
-Yes, the bot is equipped with 0 delay technology, announcements arrive instantly with a notification.
-
-**What payment methods are available ?**
-You can pay by credit card, PayPal, Apple Pay...
-
-**Which package should I choose ?**
-Even if you don't know how to find your package, you can open a ticket and we will discuss which plan suits you best !
 
 ## 💳 Get the robot
 
