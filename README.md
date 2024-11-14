@@ -14,10 +14,20 @@
 :warning: The code is not open source, to be able to obtain the bot open a ticket on my discord server : https://discord.gg/XtHueHB9hm
 
 
-<a href="https://ibb.co/ZTYVWCZ"><img src="https://i.ibb.co/QmCfrG5/Capture-d-e-cran-2024-11-14-a-21-48-17.png" alt="Capture-d-e-cran-2024-11-14-a-21-48-17" border="0"></a>
-<a href="https://ibb.co/DQ681y6"><img src="https://i.ibb.co/HqMxKsM/Capture-d-e-cran-2024-11-14-a-22-18-37.png" alt="Capture-d-e-cran-2024-11-14-a-22-18-37" border="0"></a>
-<a href="https://ibb.co/1X5McFH"><img src="https://i.ibb.co/Jp4qZDX/Capture-d-e-cran-2024-11-14-a-22-19-19.png" alt="Capture-d-e-cran-2024-11-14-a-22-19-19" border="0"></a>
-<a href="https://ibb.co/2d530FS"><img src="https://i.ibb.co/6FN0cy8/Capture-d-e-cran-2024-11-14-a-22-19-26.png" alt="Capture-d-e-cran-2024-11-14-a-22-19-26" border="0"></a>
+<h2 align="center">⭐ Here are some photos of our awesome web panel and Discord integration !</h2>
+<p align="center">
+  <img align="center" src="https://i.ibb.co/QmCfrG5/Capture-d-e-cran-2024-11-14-a-21-48-17.png"></img>
+</p>
+<p align="center">
+  <img align="center" src="https://i.ibb.co/HqMxKsM/Capture-d-e-cran-2024-11-14-a-22-18-37.png" alt="formule-pour-discord"></img>
+</p>
+<p align="center">
+ <img src="https://i.ibb.co/Jp4qZDX/Capture-d-e-cran-2024-11-14-a-22-19-19.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
+ </p>
+ <p align="center">
+ <img src="https://i.ibb.co/6FN0cy8/Capture-d-e-cran-2024-11-14-a-22-19-26.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
+ </p>
+<hr>
 
 
 <br>
