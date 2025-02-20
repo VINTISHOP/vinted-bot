@@ -30,7 +30,7 @@
   <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342278922125185034/Searchs.png?ex=67b90e29&is=67b7bca9&hm=0ecedd51d32641e8d14ffdcdbe0ebbfd98133264325684a536f56475474a30e6&"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342276152084066365/Discord.png?ex=67b90e5e&is=67b7bcde&hm=4ff83ec92b01df74bf68a89f8d0d2b0048c83bdef64a786cbe2e0ea371f9b72b&" style="max-width: 100%; height: auto;">
+  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342279144523960330/Discord.png?ex=67b90e5e&is=67b7bcde&hm=4ff83ec92b01df74bf68a89f8d0d2b0048c83bdef64a786cbe2e0ea371f9b72b&" style="max-width: 100%; height: auto;">
 </p
 <hr>
 
