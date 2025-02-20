@@ -11,14 +11,14 @@ Available on the Web, Discord, and Telegram, VINTI streamlines your search manag
 
 Boost your earnings with our Business offer! Resell VINTI as a subscription on your Discord and create a new revenue stream effortlessly.
 
-🔥 Join the Vinted revolution now and get ahead of the competition !.</p>
+🔥 Join the Vinted revolution now and get ahead of the competition !</p>
 
-<p>Why choose VINTI?<p>
+<h2 align="center"> Why choose VINTI ?</h2>
 <p>The strength of VINTI lies in its unmatched speed and user-friendly simplicity. Built to be ultra-performant, VINTI offers no delay, outperforming competitors while maintaining competitive pricing.<p>
 
 <p>But VINTI is more than just a bot: it's a complete experience with personalized support. Our team helps you configure the bot optimally for maximum performance throughout the duration of your contract.<p>
 
-<p>How to subscribe to VINTI ?<p>
+<h2 align="center"> How to subscribe to VINTI ?</h2>
 <p> Go Discord : https://discord.gg/XtHueHB9hm<p>
 <p> Read : ❓┋what-is-vinti & 💳┋packages<p>
 <p>Access the 📩┋tickets channel.<p>
