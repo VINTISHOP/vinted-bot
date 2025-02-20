@@ -19,10 +19,10 @@ Boost your earnings with our Business offer! Resell VINTI as a subscription on y
 <p>But VINTI is more than just a bot: it's a complete experience with personalized support. Our team helps you configure the bot optimally for maximum performance throughout the duration of your contract.<p>
 
 <h2 align="center"> How to subscribe to VINTI ?</h2>
-<p> Go Discord : https://discord.gg/XtHueHB9hm<p>
-<p> Read : ❓┋what-is-vinti & 💳┋packages<p>
-<p>Access the 📩┋tickets channel.<p>
-<p>Open a ticket.<p>
+<p> 1) Go Discord : https://discord.gg/XtHueHB9hm<p>
+<p> 2) Read : ❓┋what-is-vinti & 💳┋packages<p>
+<p>3) Access the 📩┋tickets channel.<p>
+<p>4) Open a ticket.<p>
 
 <p>A team member will respond to you promptly to finalize your registration. Don't miss this opportunity ! Join the VINTI community today and transform your Vinted experience.<p>
 
