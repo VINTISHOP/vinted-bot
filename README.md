@@ -18,7 +18,7 @@
 
 <p>But <strong>VINTI</strong> is more than just a bot: it's a complete experience with <strong>personalized support</strong>. Our team helps you configure the bot optimally for maximum performance throughout the duration of your <strong>contract</strong>.</p>
 
-<h2 align="center">How to subscribe to <strong>VINTI</strong>? 💳</h2>
+<h2 align="center">How to subscribe to <strong>VINTI</strong>💳</h2>
 <p>1) Go to <strong>Discord</strong>: <a href="https://discord.gg/XtHueHB9hm">https://discord.gg/XtHueHB9hm</a></p>
 <p>2) Read: ❓┋<strong>what-is-vinti</strong> & 💳┋<strong>packages</strong></p>
 <p>3) Access the 📩┋<strong>tickets channel</strong>.</p>
