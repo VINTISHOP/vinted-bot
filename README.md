@@ -20,7 +20,7 @@
 
 <h2 align="center">How to subscribe to <strong>VINTI</strong>💳</h2>
 <p>1) Go to <strong>Discord</strong>: <a href="https://discord.gg/XtHueHB9hm">https://discord.gg/XtHueHB9hm</a></p>
-<p>2) Read: ❓┋<strong>what-is-vinti</strong> & 💳┋<strong>packages</strong></p>
+<p>2) Read :❓┋<strong>what-is-vinti</strong> & 💳┋<strong>packages</strong></p>
 <p>3) Access the 📩┋<strong>tickets channel</strong>.</p>
 <p>4) Open a <strong>ticket</strong>.</p>
 
@@ -28,9 +28,6 @@
 
 <h2 align="center">⭐ Here are some photos of our awesome <strong>web panel</strong> and <strong>Discord integration</strong>!</h2>
 
-<p align="center">
-  <img align="center" src="https://i.ibb.co/qYbbwny/Capture-d-e-cran-2024-11-14-a-23-19-22.png"></img>
-</p>
 <p align="center">
   <img align="center" src="https://i.ibb.co/QmCfrG5/Capture-d-e-cran-2024-11-14-a-21-48-17.png"></img>
 </p>
@@ -40,6 +37,9 @@
 <p align="center">
  <img src="https://i.ibb.co/Jp4qZDX/Capture-d-e-cran-2024-11-14-a-22-19-19.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
  </p>
+<p align="center">
+  <img align="center" src="https://i.ibb.co/qYbbwny/Capture-d-e-cran-2024-11-14-a-23-19-22.png"></img>
+</p>
  <p align="center">
  <img src="https://i.ibb.co/6FN0cy8/Capture-d-e-cran-2024-11-14-a-22-19-26.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
  </p>
