@@ -3,7 +3,7 @@
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
 </p>
 
-<h2 align="center">What is <strong>VINTI</strong>? ❓</h2>
+<h2 align="center">What is <strong>VINTI</strong>❓</h2>
 
 <p><strong>VINTI</strong> is the ultimate <strong>bot</strong> for dominating <strong>Vinted</strong>. It allows you to uncover the best <strong>deals</strong> on the <strong>Vinted platform</strong> in real time, becoming an essential tool for wise buyers and resellers.</p>
 
@@ -13,7 +13,7 @@
 
 <p>🔥 Join the <strong>Vinted revolution</strong> now and get ahead of the competition!</p>
 
-<h2 align="center">Why choose <strong>VINTI</strong>? 🤔</h2>
+<h2 align="center">Why choose <strong>VINTI</strong>❓</h2>
 <p>The strength of <strong>VINTI</strong> lies in its unmatched <strong>speed</strong> and <strong>user-friendly simplicity</strong>. Built to be ultra-performant, <strong>VINTI</strong> offers no <strong>delay</strong>, outperforming competitors while maintaining <strong>competitive pricing</strong>.</p>
 
 <p>But <strong>VINTI</strong> is more than just a bot: it's a complete experience with <strong>personalized support</strong>. Our team helps you configure the bot optimally for maximum performance throughout the duration of your <strong>contract</strong>.</p>
