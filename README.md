@@ -3,6 +3,8 @@
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
 </p>
 
+<h2 align="center">What is <strong>VINTI</strong>? ❓</h2>
+
 <p><strong>VINTI</strong> is the ultimate <strong>bot</strong> for dominating <strong>Vinted</strong>. It allows you to uncover the best <strong>deals</strong> on the <strong>Vinted platform</strong> in real time, becoming an essential tool for wise buyers and resellers.</p>
 
 <p>Available on the Web, <strong>Discord</strong>, and <strong>Telegram</strong>, <strong>VINTI</strong> streamlines your <strong>search management</strong> with a super intuitive interface and advanced features like <strong>autobuy</strong>.</p>
@@ -16,7 +18,7 @@
 
 <p>But <strong>VINTI</strong> is more than just a bot: it's a complete experience with <strong>personalized support</strong>. Our team helps you configure the bot optimally for maximum performance throughout the duration of your <strong>contract</strong>.</p>
 
-<h2 align="center">How to subscribe to <strong>VINTI</strong>? 📲</h2>
+<h2 align="center">How to subscribe to <strong>VINTI</strong>? 💳</h2>
 <p>1) Go to <strong>Discord</strong>: <a href="https://discord.gg/XtHueHB9hm">https://discord.gg/XtHueHB9hm</a></p>
 <p>2) Read: ❓┋<strong>what-is-vinti</strong> & 💳┋<strong>packages</strong></p>
 <p>3) Access the 📩┋<strong>tickets channel</strong>.</p>
