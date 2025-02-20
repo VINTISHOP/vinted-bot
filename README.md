@@ -15,13 +15,13 @@
 
 <h2 align="center">How to subscribe to <strong>VINTI</strong> 💳</h2>
 <p>1) Go to <strong>Discord</strong>: <a href="https://discord.gg/XtHueHB9hm">https://discord.gg/XtHueHB9hm</a></p>
-<p>2) Read :❓┋<strong>what-is-vinti</strong> & 💳┋<strong>packages</strong></p>
+<p>2) Read :❓┋<strong>what-is-vinti</strong> &  💳┋<strong>packages</strong></p>
 <p>3) Access the 📩┋<strong>tickets channel</strong>.</p>
 <p>4) Open a <strong>ticket</strong>.</p>
 
 <p>A team member will respond to you promptly to finalize your <strong>registration</strong>. Don't miss this opportunity! Join the <strong>VINTI</strong> community today and transform your <strong>Vinted experience</strong>.</p>
 
-<h2 align="center">⭐ Here are some photos of our awesome <strong>web panel</strong> and <strong>Discord integration</strong>!</h2>
+<h2 align="center">📷 Here are some photos of our awesome <strong>web panel</strong> and <strong>Discord integration</strong>!</h2>
 
 <p align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342278921604825150/Panel.png?ex=67b90e29&is=67b7bca9&hm=f8e0b4a060f21fe80fec9a405ef6ba43d8fca98eab3bfb8c5d60a0a06eda88a7&"></img>
