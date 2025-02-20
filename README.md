@@ -35,14 +35,11 @@
   <img align="center" src="https://i.ibb.co/HqMxKsM/Capture-d-e-cran-2024-11-14-a-22-18-37.png" alt="formule-pour-discord"></img>
 </p>
 <p align="center">
- <img src="https://i.ibb.co/Jp4qZDX/Capture-d-e-cran-2024-11-14-a-22-19-19.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
+ <img src="https://i.ibb.co/6FN0cy8/Capture-d-e-cran-2024-11-14-a-22-19-26.png" alt="Capture-d-cran-2024-07-23-12-30-11" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
  </p>
 <p align="center">
   <img align="center" src="https://i.ibb.co/qYbbwny/Capture-d-e-cran-2024-11-14-a-23-19-22.png"></img>
 </p>
- <p align="center">
- <img src="https://i.ibb.co/6FN0cy8/Capture-d-e-cran-2024-11-14-a-22-19-26.png" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
- </p>
 <hr>
 
 
