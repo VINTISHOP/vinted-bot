@@ -32,13 +32,10 @@
   <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342278921604825150/Panel.png?ex=67b90e29&is=67b7bca9&hm=f8e0b4a060f21fe80fec9a405ef6ba43d8fca98eab3bfb8c5d60a0a06eda88a7&"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://i.ibb.co/HqMxKsM/Capture-d-e-cran-2024-11-14-a-22-18-37.png" alt="formule-pour-discord"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342278922125185034/Searchs.png?ex=67b90e29&is=67b7bca9&hm=0ecedd51d32641e8d14ffdcdbe0ebbfd98133264325684a536f56475474a30e6&"></img>
 </p>
 <p align="center">
- <img src="https://i.ibb.co/6FN0cy8/Capture-d-e-cran-2024-11-14-a-22-19-26.png" alt="Capture-d-cran-2024-07-23-12-30-11" alt="Capture-d-cran-2024-07-23-12-30-11"></img>
- </p>
-<p align="center">
-  <img align="center" src="https://i.ibb.co/qYbbwny/Capture-d-e-cran-2024-11-14-a-23-19-22.png"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342279144523960330/Discord.png?ex=67b90e5e&is=67b7bcde&hm=4ff83ec92b01df74bf68a89f8d0d2b0048c83bdef64a786cbe2e0ea371f9b72b&"></img>
 </p>
 <hr>
 
