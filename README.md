@@ -3,9 +3,15 @@
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
 </p>
 
-<h1 align="center">VINTED BOT</h1>
+<h1 align="center">VINTI</h1>
 
-<p>Do you want to enhance your buying and selling experience on Vinted? Our bot is the perfect tool for you. It’s an automated program designed to send Vinted listings directly to our web panel, with options to also send them to Discord, Telegram, and Signal.</p>
+<p>VINTI is the ultimate bot for dominating Vinted. It allows you to uncover the best deals on the Vinted platform in real time, becoming an essential tool for wise buyers and resellers.
+
+Available on the Web, Discord, and Telegram, VINTI streamlines your search management with a super intuitive interface and advanced features like autobuy.
+
+Boost your earnings with our Business offer! Resell VINTI as a subscription on your Discord and create a new revenue stream effortlessly.
+
+🔥 Join the Vinted revolution now and get ahead of the competition !.</p>
 
 <p>Our bot comes with the latest features: <strong>auto-buy, auto-cop, access to Vinted on all available markets, and a simplified interface for easy and quick use</strong>.</p>
 
