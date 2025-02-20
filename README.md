@@ -24,7 +24,7 @@
 <h2 align="center">📷 Here are some photos of our awesome <strong>web panel</strong> and <strong>Discord integration</strong>!</h2>
 
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342278921604825150/Panel.png?ex=67b90e29&is=67b7bca9&hm=f8e0b4a060f21fe80fec9a405ef6ba43d8fca98eab3bfb8c5d60a0a06eda88a7&"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342279918607929427/create-a-vinted-bot-for-the-web-and-discord.png?ex=67b90f16&is=67b7bd96&hm=061b91f25532da231870ce902c3c56cebf7d233ed2575781f4e9851dc71efd07&"></img>
 </p>
 <p align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342278922125185034/Searchs.png?ex=67b90e29&is=67b7bca9&hm=0ecedd51d32641e8d14ffdcdbe0ebbfd98133264325684a536f56475474a30e6&"></img>
