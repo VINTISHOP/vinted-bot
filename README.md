@@ -13,9 +13,19 @@ Boost your earnings with our Business offer! Resell VINTI as a subscription on y
 
 🔥 Join the Vinted revolution now and get ahead of the competition !.</p>
 
-<p>Our bot comes with the latest features: <strong>auto-buy, auto-cop, access to Vinted on all available markets, and a simplified interface for easy and quick use</strong>.</p>
+<p>Why choose VINTI?<p>
+<p>The strength of VINTI lies in its unmatched speed and user-friendly simplicity. Built to be ultra-performant, VINTI offers no delay, outperforming competitors while maintaining competitive pricing.<p>
 
-<p>As an expert in Vinted bot development for two years, I have already delivered over 70 bots to clients around the world. Our bot is accessible to everyone, making it the ideal tool for getting started in e-commerce. Whether you’re simply looking for discounted clothing or planning to launch a subscription Discord server, our bot is designed to meet all your needs.</p>
+<p>But VINTI is more than just a bot: it's a complete experience with personalized support. Our team helps you configure the bot optimally for maximum performance throughout the duration of your contract.<p>
+
+<p>How to subscribe to VINTI ?<p>
+<p> Go Discord : https://discord.gg/XtHueHB9hm<p>
+<p> Read : ❓┋what-is-vinti & 💳┋packages<p>
+<p>Access the 📩┋tickets channel.<p>
+<p>Open a ticket.<p>
+
+<p>A team member will respond to you promptly to finalize your registration. Don't miss this opportunity ! Join the VINTI community today and transform your Vinted experience.<p>
+
 
 :warning: The code is not open source, to be able to obtain the bot open a ticket on my discord server : https://discord.gg/XtHueHB9hm
 
