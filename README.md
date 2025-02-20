@@ -3,7 +3,7 @@
   <img alt="npm" src="https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge">
 </p>
 
-<h1 align="center">What is VINTI ?</h1>
+<h2 align="center">What is VINTI ?</h2>
 
 <p>VINTI is the ultimate bot for dominating Vinted. It allows you to uncover the best deals on the Vinted platform in real time, becoming an essential tool for wise buyers and resellers.
 
