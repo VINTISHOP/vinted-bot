@@ -8,6 +8,8 @@
 
 <p>🔥 Join the <strong>Vinted revolution</strong> now and get ahead of the competition!</p>
 
+<p>🔥 https://vinti.shop</p>
+
 <h2 align="center">Why choose <strong>VINTI</strong>❓</h2>
 <p>The strength of <strong>VINTI</strong> lies in its unmatched <strong>speed</strong> and <strong>user-friendly simplicity</strong>. Built to be ultra-performant, <strong>VINTI</strong> offers no <strong>delay</strong>, outperforming competitors while maintaining <strong>competitive pricing</strong>.</p>
 
