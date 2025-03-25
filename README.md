@@ -24,14 +24,11 @@
 <h2 align="center">📷 Here are some photos of our awesome <strong>web panel</strong> and <strong>Discord integration</strong> !</h2>
 
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342279918607929427/create-a-vinted-bot-for-the-web-and-discord.png?ex=67b90f16&is=67b7bd96&hm=061b91f25532da231870ce902c3c56cebf7d233ed2575781f4e9851dc71efd07&"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342279918607929427/create-a-vinted-bot-for-the-web-and-discord.png?ex=67e33f16&is=67e1ed96&hm=dd1848c7a157a145cd2f5ef7b32d01a2647c922d0dbe22e75e337a0f6296e39f&"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342278922125185034/Searchs.png?ex=67b90e29&is=67b7bca9&hm=0ecedd51d32641e8d14ffdcdbe0ebbfd98133264325684a536f56475474a30e6&"></img>
+  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342279144523960330/Discord.png?ex=67e33e5e&is=67e1ecde&hm=96beef5598c1758b7686b580e309f169f34593a5c480e9e1108820b6d22c94f9&"></img>
 </p>
-<p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1162776152084066365/1342279144523960330/Discord.png?ex=67b90e5e&is=67b7bcde&hm=4ff83ec92b01df74bf68a89f8d0d2b0048c83bdef64a786cbe2e0ea371f9b72b&" style="max-width: 60%; height: auto;">
-</p
 <hr>
 
 
