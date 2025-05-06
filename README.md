@@ -26,7 +26,7 @@
 <h2 align="center">📷 Here are some photos of our awesome <strong>web panel</strong> and <strong>Discord integration</strong> !</h2>
 
 <p align="center">
-  <img align="center" src="https://i.ibb.co/9HZ4G1jq/bon.jpg"></img>
+  <img align="center" src="https://i.ibb.co/zV62NBwS/bon.jpg"></img>
 </p>
 <p align="center">
   <img align="center" src="https://i.ibb.co/qMQyDjn4/bon-2.png"></img>
