@@ -29,7 +29,7 @@
   <img align="center" src="https://i.ibb.co/9HZ4G1jq/bon.jpg"></img>
 </p>
 <p align="center">
-  <img align="center" src="https://i.ibb.co/JRJBctdb/bon-2.png"></img>
+  <img align="center" src="https://i.ibb.co/qMQyDjn4/bon-2.png"></img>
 </p>
 <hr>
 
