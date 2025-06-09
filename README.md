@@ -1,4 +1,4 @@
-<h2 align="center">What is <strong>VINTI</strong>❓</h2>
+<h2 align="center">What is <strong>VINTI BOT</strong>❓</h2>
 
 <p><strong>VINTI</strong> is the ultimate <strong>bot</strong> for dominating <strong>Vinted</strong>. It allows you to uncover the best <strong>deals</strong> on the <strong>Vinted platform</strong> in real time, becoming an essential tool for wise buyers and resellers.</p>
 
